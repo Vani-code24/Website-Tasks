@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700 &display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 .header {
-    font-family: 'open Sans', sans-serif;
     padding: 14px 40px;
     width: 100%;
     text-align: center;
@@ -20,17 +19,17 @@
     float: left;
     width: 80%;
     padding: 10px 0;
-
+    font-family: 'Open Sans', sans-serif;
 }
 
 
 .header__list li {
     display: inline-block;
 
-
 }
 
 .header__list li .nav__link {
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     letter-spacing: 0;
     color: #fff;
@@ -49,7 +48,7 @@
     letter-spacing: 0;
     background-color: #2086fb;
     font-size: 15px;
-    font-family: 'Open sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -126,7 +125,7 @@ input::placeholder {
     color: #fff;
     text-align: center;
     letter-spacing: 0;
-    font-family: 'Open sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 
 }
@@ -160,9 +159,10 @@ input::placeholder {
     margin-top: 24px;
     letter-spacing: 0;
     color: #4a4a4a;
-    font-family: 'Open sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .box__list p {
+    font-family: 'Open Sans', sans-serif;
     width: 264px;
     color: #858585;
     text-align: center;
